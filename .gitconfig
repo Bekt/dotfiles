@@ -1,0 +1,15 @@
+[user]
+  name = Bekt
+  email = bekt17@gmail.com
+
+[alias]
+  cm = "!f() { git commit -m \"$1\"; }; f"
+  cmend = commit --amend --no-edit
+  graph = log --graph --decorate --pretty=oneline --abbrev-commit
+  rollback = reset --soft HEAD^
+  lg = log --graph --pretty=format:'%Cred%h%Creset%C(yellow)%d%Creset %C(bold blue)<%an>%Creset %Cgreen(%cr) \n%s\n' --abbrev-commit --date=relative
+  co = checkout
+  st = status
+
+[push]
+  default = tracking
