@@ -3,6 +3,7 @@
   email = bekt17@gmail.com
 
 [alias]
+  aa = add --all
   cm = "!f() { git commit -m \"$1\"; }; f"
   cmend = commit --amend --no-edit
   graph = log --graph --decorate --pretty=oneline --abbrev-commit
