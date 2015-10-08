@@ -12,6 +12,8 @@
   co = checkout
   st = status
   sync = pull --rebase
+  ayy = "!f() { git aa; git cmend; git push -f; }; f"
+  yolo = "!f() { git aa; git cm '#fuckitshipit'; git push -f; }; f"
 
 [push]
   default = tracking
