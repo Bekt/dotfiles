@@ -1,0 +1,8 @@
+caskroom/cask/brew-cask
+docker
+docker-machine
+fish
+git
+neovim/neovim/neovim
+nvm
+python3
