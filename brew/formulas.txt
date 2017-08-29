@@ -1,9 +1,0 @@
-ansible
-caskroom/cask/brew-cask
-docker-compose
-fish
-git
-libksba
-neovim/neovim/neovim
-nvm
-python3
