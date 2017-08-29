@@ -1,0 +1,4 @@
+PATH=/Volumes/Custom/Users/kb/.config/fin/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+HOME=/Volumes/Custom/Users/kb
+
+* 16 * * * $HOME/workspace/personal/dotfiles/ping.bash >> /tmp/cron.dotfiles.log 2>&1
