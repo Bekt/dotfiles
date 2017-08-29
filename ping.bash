@@ -1,8 +1,9 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bash -e
 
 # $ crontab -u kb -e
 # @reboot ping.bash >> /tmp/cron.dotfiles.log 2>&1
 
+date
 cd $(dirname $0)
 
 # Update brew formulas.

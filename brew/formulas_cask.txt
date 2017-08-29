@@ -1,0 +1,12 @@
+atom
+dropbox
+intellij-idea
+iterm2
+minikube
+ngrok
+pycharm
+rdm
+recordit
+vagrant-manager
+vmware-fusion
+webtorrent
