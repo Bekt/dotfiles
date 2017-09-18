@@ -8,5 +8,6 @@ pycharm
 rdm
 recordit
 vagrant-manager
+visual-studio-code
 vmware-fusion
 webtorrent
