@@ -1,3 +1,5 @@
+automake
+cmake
 docker
 docker-machine
 fish
@@ -9,7 +11,6 @@ jq
 libyaml
 neovim
 python
-python3
 rbenv
 tree
 vegeta
