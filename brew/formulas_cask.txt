@@ -1,4 +1,5 @@
 atom
+charles
 dropbox
 intellij-idea
 iterm2
