@@ -10,10 +10,11 @@ httpie
 jq
 libyaml
 neovim
-python
+openssl@1.1
 rbenv
 tree
 vegeta
 watch
+watchman
 wget
 wrk
