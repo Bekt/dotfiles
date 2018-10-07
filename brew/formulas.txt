@@ -4,6 +4,7 @@ docker
 docker-machine
 fish
 git
+go
 graphviz
 haskell-stack
 httpie
