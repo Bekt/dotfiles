@@ -9,6 +9,7 @@ graphviz
 haskell-stack
 httpie
 jq
+kubernetes-cli
 neovim
 openssl@1.1
 rbenv
