@@ -3,7 +3,6 @@ charles
 dropbox
 intellij-idea
 iterm2
-minikube
 ngrok
 pycharm
 rdm
