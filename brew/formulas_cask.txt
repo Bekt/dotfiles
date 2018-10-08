@@ -1,5 +1,6 @@
 atom
 charles
+docker
 dropbox
 intellij-idea
 iterm2
