@@ -10,10 +10,12 @@ haskell-stack
 httpie
 jq
 kubernetes-cli
+mercurial
 neovim
 openssl@1.1
 rbenv
 ruby
+sphinx-doc
 tree
 vegeta
 watch
