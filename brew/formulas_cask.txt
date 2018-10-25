@@ -1,0 +1,16 @@
+atom
+charles
+docker
+dropbox
+intellij-idea
+iterm2
+minikube
+ngrok
+pycharm
+rdm
+recordit
+vagrant
+vagrant-manager
+visual-studio-code
+vmware-fusion
+webtorrent
