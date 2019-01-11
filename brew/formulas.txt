@@ -16,6 +16,7 @@ openssl@1.1
 rbenv
 ruby
 sphinx-doc
+tfenv
 tree
 vegeta
 watch
