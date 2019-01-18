@@ -13,6 +13,7 @@ kubernetes-cli
 mercurial
 neovim
 openssl@1.1
+r
 rbenv
 ruby
 sphinx-doc
