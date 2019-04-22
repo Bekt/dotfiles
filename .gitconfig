@@ -1,6 +1,7 @@
 [user]
   name = Bekt
   email = bekt17@gmail.com
+  signingkey = 78594CAD2BDFCE22
 
 [alias]
   aa = add --all
@@ -17,3 +18,6 @@
 
 [push]
   default = tracking
+
+[commit]
+  gpgsign = true

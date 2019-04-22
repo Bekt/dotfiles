@@ -9,6 +9,9 @@ cd $(dirname $0)
 brew leaves > brew/formulas.txt
 brew cask list > brew/formulas_cask.txt
 
+# Fish configs.
+cp ~/.config/fish/{aliases,config,init}.fish fish/
+
 git st
 git aa
 git cm "Auto-commit: $(date '+%Y-%m-%d')"

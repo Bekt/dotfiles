@@ -9,4 +9,4 @@ source $OMF_PATH/init.fish
 # Custom.
 source $FISH_PATH/init.fish
 source $FISH_PATH/aliases.fish
-rvm default
+
