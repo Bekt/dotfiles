@@ -9,6 +9,7 @@ ngrok
 pycharm
 rdm
 recordit
+robo-3t
 vagrant
 vagrant-manager
 visual-studio-code
