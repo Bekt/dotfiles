@@ -1,5 +1,6 @@
 autojump
 automake
+awscli
 cmake
 docker
 docker-machine
