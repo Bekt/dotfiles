@@ -20,6 +20,7 @@ r
 rbenv
 ruby
 sphinx-doc
+terraformer
 tfenv
 tig
 tree
