@@ -19,6 +19,7 @@ openssl@1.1
 r
 rbenv
 ruby
+sops
 sphinx-doc
 terraformer
 tfenv
