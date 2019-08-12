@@ -8,6 +8,7 @@ minikube
 ngrok
 pgadmin4
 pycharm
+qbittorrent
 rdm
 recordit
 robo-3t
