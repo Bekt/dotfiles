@@ -13,11 +13,10 @@ graphviz
 haskell-stack
 httpie
 jq
-kubernetes-cli
 libpq
 mercurial
+minikube
 neovim
-openssl@1.1
 r
 rbenv
 ruby
