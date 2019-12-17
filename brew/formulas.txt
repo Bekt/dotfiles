@@ -17,6 +17,8 @@ libpq
 mercurial
 minikube
 neovim
+pyenv
+python@2
 r
 rbenv
 ruby
